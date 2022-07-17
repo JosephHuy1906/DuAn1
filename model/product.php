@@ -30,6 +30,13 @@
             $result = $db->getList($strQuery); //  hàm getlist ở đây là hàm lấy nguyên 1 bảng đã được tạo từ trước ở file connect.php
             return $result;
         }
+         // Lấy 4 sản phẩm mới nhất
+        public function sanpham_new(){
+            $db = new connect();
+            $strQuery = "SELECT * FROM sanpham  ORDER BY maSP DESC limit 4";
+            $result = $db->getList($strQuery); 
+            return $result;
+        }
 
         // Lấy sản phẩm theo id
         public function laySPById($maSP){

@@ -14,7 +14,7 @@
     switch($act){
         // Code của trang chủ
         case 'index':
-            $result = $sanpham->laySP();
+            $result = $sanpham->sanpham_new();
             include_once('../view/home.php');
             break;
         case 'cart':
