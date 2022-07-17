@@ -15,12 +15,11 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../view/scss/grid.css">
+    <link rel="stylesheet" href="../view/css/grid.css">
     <link rel="stylesheet" href="../view/css/cart.css" />
     <link rel="stylesheet" href="../view/css/log.css" />
-    <link rel="stylesheet" href="../view/scss/grid.css">
     <link rel="stylesheet" href="../view/css/profile.css" />
-    <link rel="stylesheet" href="../view/scss/main.css">
+    <link rel="stylesheet" href="../view/css/main.css">
     <link rel="stylesheet" href="../view/css/trangchu.css" />
 </head>
 

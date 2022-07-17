@@ -10,8 +10,8 @@
             $password = "";
 
             $this->db = new PDO("mysql:host=$servername;dbname=duan1", $username, $password);
-
             $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            $this->db->query("SET NAMES 'utf8'");
         }
 
         //Gửi câu truy vấn lấy nguyên bảng dữ liệu

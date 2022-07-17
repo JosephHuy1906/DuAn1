@@ -24,23 +24,27 @@
                         <div class="main__product-content">
                             <div class="row">
                                 <?php
+
                                     foreach($result as $r){
-                                        echo '<div class="col l-3">
-                                    <a href="#" class="main__product-box">
-                                        <div class="main__product-box-picture">
-                                            <img class="main__product-box-img" src="../view/images/'.$r[3].'" width=250 height=250>
+                                        extract($r);
+                                            echo '
+                                            <div class="col l-3">
+                                            <a href="#" class="main__product-box">
+                                                <div class="main__product-box-picture">
+                                                    <div class="main__product-box-img" style="background-image: url(../view/images/'.$hinh.')"></div>
+                                                </div>
+                                                <h3 class="main__product-box-title">'.$tenSP.'</h3>
+                                                <div class="main__product-box-price">
+                                                    <span class="main__product-box-current-price">'.$giaTien.'</span>
+                                                    <span class="main__product-box-old-price">100.000đ</span>
+                                                </div>
+                                                <div class="main__product-box-color">
+                                                    <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
+                                                    
+                                                </div>
+                                            </a>
                                         </div>
-                                        <h3 class="main__product-box-title">'.$r[1].'</h3>
-                                        <div class="main__product-box-price">
-                                            <span class="main__product-box-current-price">'.$r[4].'</span>
-                                            <span class="main__product-box-old-price">'.$r[5].'</span>
-                                        </div>
-                                        <div class="main__product-box-color">
-                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
-                                            
-                                        </div>
-                                    </a>
-                                </div>';
+                                            ';
                                     }
                                 ?>
                                 
