@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&display=swap");
+main {
+  margin-top: 7%;
+}
+main h3 {
+  margin-left: 15%;
+}
+.title .home {
+  font-weight: 500;
+}
+.cart {
+  width: 90%;
+  padding-bottom: 50px;
+  margin: auto;
+}
+table {
+  text-align: center;
+  margin: auto;
+}
+table th {
+  width: 150px;
+  background: #181821;
+  height: 40px;
+  border: none;
+  color: white;
+}
+table td {
+  padding: 5px;
+}
+table td img {
+  width: 150px;
+}
+table td b {
+  font-weight: 500;
+}
+table td span {
+  color: red;
+  font-weight: 600;
+}
+table tr td a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  font-size: 18px;
+}
+.oder {
+  text-align: right;
+}
+.oder a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+}
+.oder .oder_now {
+  width: 130px;
+  height: 35px;
+  border: none;
+  box-shadow: 0 0 5px;
+  color: white;
+  background-color: orchid;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+.oder .buy_next {
+  width: 150px;
+  height: 35px;
+  background: orange;
+  border: none;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+.oder button:hover {
+  background: gray;
+}
