@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="../view/css/cart.css" />
     <link rel="stylesheet" href="../view/css/log.css" />
     <link rel="stylesheet" href="../view/scss/grid.css">
+    <link rel="stylesheet" href="../view/css/profile.css" />
     <link rel="stylesheet" href="../view/scss/main.css">
     <link rel="stylesheet" href="../view/css/trangchu.css" />
 </head>
@@ -49,7 +50,7 @@
                     <div class="header__information">
                         <ul class="header__information-list">
                             <li class="header__information-item">
-                                <a href="../controller/index.php?act=login_regin" class="header__information-link">
+                                <a href="?act=login_register" class="header__information-link">
                                     <i class="fa-regular fa-user"></i>
                                 </a>
                             </li>

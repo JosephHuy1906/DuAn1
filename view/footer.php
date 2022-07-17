@@ -186,19 +186,19 @@
                     </a>
                 </li>
                 <li class="sidebar__wrapper-item">
-                    <a href="../controller/index.php?act=cart" class="sidebar__wrapper-link">
+                    <a href="?act=cart" class="sidebar__wrapper-link">
                         <i class="fa-solid fa-cart-arrow-down sidebar__wrapper-link-icon"></i>
                         <span class="sidebar__wrapper-link-title">Giỏ hàng</span>
                     </a>
                 </li>
                 <li class="sidebar__wrapper-item">
-                    <a href="../controller/index.php?act=login_regin" class="sidebar__wrapper-link">
+                    <a href="?act=profile" class="sidebar__wrapper-link">
                         <i class="fa-solid fa-id-badge sidebar__wrapper-link-icon"></i>
                         <span class="sidebar__wrapper-link-title">Thay đổi thông tin trực tiếp</span>
                     </a>
                 </li>
                 <li class="sidebar__wrapper-item">
-                    <a href="../controller/index.php?act=login_regin" class="sidebar__wrapper-link">
+                    <a href="?act=login_register" class="sidebar__wrapper-link">
                         <i class="fa-solid fa-gear sidebar__wrapper-link-icon"></i>
                         <span class="sidebar__wrapper-link-title">Cài đặt</span>
                     </a>

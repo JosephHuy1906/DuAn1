@@ -4,8 +4,8 @@
     
     include_once('../view/header.php'); // Header
 
-    if(isset($GET['act'])){
-        $act = $GET['act'];
+    if(isset($_GET['act'])){
+        $act = $_GET['act'];
     }else{
         $act = 'index';
     }
@@ -16,6 +16,18 @@
         case 'index':
             $result = $sanpham->laySP();
             include_once('../view/home.php');
+            break;
+        case 'cart':
+            include_once('../view/cart.php');
+            break;
+        case 'login_register':
+            include_once('../view/login_register.php');
+            break;
+        case 'profile':
+            include_once('../view/profile.php');
+            break;
+        case 'detail_product':
+            include_once('../view/detail_product.php');
             break;
     }
 

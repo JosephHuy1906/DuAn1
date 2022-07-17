@@ -384,7 +384,6 @@ html ::-webkit-scrollbar-track {
 }
 /* footer */
 .footer {
-  margin-top: 40px;
   background-color: #181821;
   padding: 60px 0;
 }

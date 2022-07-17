@@ -36,7 +36,7 @@
                                             <span class="main__product-box-old-price">'.$r[5].'</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -65,7 +65,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -82,7 +82,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -99,7 +99,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -116,7 +116,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -142,7 +142,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -159,7 +159,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -176,7 +176,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -193,7 +193,7 @@
                                             <span class="main__product-box-old-price">100.000đ</span>
                                         </div>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>
                                             
                                         </div>
                                     </a>
@@ -214,7 +214,7 @@
                                         </div>
                                         <h3 class="main__product-box-title news">Aimé Leon Dore là gì? Tại sao bản collab New Blance 550 x Aimé Leon Dore lại có giá lên</h3>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>  
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>  
                                         </div>
                                     </a>
                                 </div>
@@ -226,7 +226,7 @@
                                         </div>
                                         <h3 class="main__product-box-title news">Những sự thật bí ẩn đằng sau thương hiệu thời trang nổi tiếng của Đức - Adidas</h3>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>  
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>  
                                         </div>
                                     </a>
                                 </div>
@@ -238,7 +238,7 @@
                                         </div>
                                         <h3 class="main__product-box-title news">OFF-WHITE ™ x Church's: có gì phía sau bản hợp tác cuối cùng của Virgil Abloh</h3>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>  
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>  
                                         </div>
                                     </a>
                                 </div>
@@ -250,7 +250,7 @@
                                         </div>
                                         <h3 class="main__product-box-title news">BST Dior x Travis Scott ra mắt hoành tráng tại tuần lễ thời trang Paris</h3>
                                         <div class="main__product-box-color">
-                                            <a href="../controller/index.php?act=chitietsp" class="main__product-box-color-title">Xem chi tiết</a>  
+                                            <a href="?act=detail_product" class="main__product-box-color-title">Xem chi tiết</a>  
                                         </div>
                                     </a>
                                 </div>
